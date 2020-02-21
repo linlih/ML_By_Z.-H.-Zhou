@@ -2,9 +2,9 @@
 《机器学习》周志华，论文汇总，习题解答，代码实现
 
 # 第7章 贝叶斯分类器
-[Bishop, C. M. (2006).  Pattern Recognition and Machine Learning. Springer, New York,  NY. ](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+[Bishop, C. M. (2006).  Pattern Recognition and Machine Learning. Springer, New York,  NY. ](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
-Chickering，D.M., D. Heckerman , and C. Meek. (2004). "Large-sample learning of Bayesian networks is  NP-hard."  Journal  of Machine  Learning  Reseαrch, 5:1287-1330. 
+[Chickering，D.M., D.Heckerman, and C.Meek.(2004). "Large-sample learning of Bayesian networks is NP-hard." Journal of Machine Learning  Research, 5:1287-1330.] (http://www.jmlr.org/papers/volume5/chickering04a/chickering04a.pdf)
 
 Chow, C. K. and  C. N. Liu.  (1968).  "Approximatiion discrete probabi1ity distributions with dependence trees." IEEE  Trαnsαctions on lnformαtion Theory, 14(3):462-467. 
 
