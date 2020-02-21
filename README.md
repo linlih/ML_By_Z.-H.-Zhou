@@ -4,13 +4,13 @@
 # 第7章 贝叶斯分类器
 <img src="https://img.icons8.com/plasticine/20/000000/books.png">[Bishop, C. M. (2006).  Pattern Recognition and Machine Learning. Springer, New York,  NY. ](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
-[Chickering，D.M., D.Heckerman, and C.Meek.(2004). "Large-sample learning of Bayesian networks is NP-hard." Journal of Machine Learning  Research, 5:1287-1330.](http://www.jmlr.org/papers/volume5/chickering04a/chickering04a.pdf)
+<img src="https://img.icons8.com/dusk/25/000000/documents.png">[Chickering，D.M., D.Heckerman, and C.Meek.(2004). "Large-sample learning of Bayesian networks is NP-hard." Journal of Machine Learning  Research, 5:1287-1330.](http://www.jmlr.org/papers/volume5/chickering04a/chickering04a.pdf)
 
-[Chow, C. K. and  C. N. Liu.  (1968).  "Approximation discrete probability distributions with dependence trees." IEEE  Trαnsαctions on lnformαtion Theory, 14(3):462-467.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.9772&rep=rep1&type=pdf)
+<img src="https://img.icons8.com/dusk/25/000000/documents.png">[Chow, C. K. and  C. N. Liu.  (1968).  "Approximation discrete probability distributions with dependence trees." IEEE  Trαnsαctions on lnformαtion Theory, 14(3):462-467.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.9772&rep=rep1&type=pdf)
 
 [Cooper, G.F.(1990). "The computational complexity of probabilistic inference using Bayesian belief networks."  Artificial Intelligence ,  42(2-3):393-405](https://www.sciencedirect.com/science/article/abs/pii/000437029090060D) **Need to Purchase**
 
-[Cowell , R. G. , P. Dawid, S. L. Lauritzen, and D. J. Spiege1ha1ter. (1999). Probabilistic Networks αnd Expert Systems. Springer, New York, NY.](https://www.springer.com/gp/book/9780387987675) **Need to Purchase**
+<img src="https://img.icons8.com/plasticine/20/000000/books.png">[Cowell , R. G. , P. Dawid, S. L. Lauritzen, and D. J. Spiege1ha1ter. (1999). Probabilistic Networks αnd Expert Systems. Springer, New York, NY.](https://www.springer.com/gp/book/9780387987675) **Need to Purchase**
 
 [Dempster, A. P., N. M. Laird, and D. B Rubin. (1977). "Maximum likelihood from incomplete data via the EM algorithm." Journαl of the  Royal  Stαtistical Society - Series  B, 39(1):1-38.](https://www.isi.edu/natural-language/teaching/cs562/2009/readings/DLR77.pdf)
 
@@ -26,7 +26,7 @@
 
 [Heckerman, D.(1998). "A tutorial on learning with Bayesian networks." In learning in Graphical Models (M. I.Jordan, ed.) , 301-354, Kluwer, Dordrecht, The Netherlands.](https://arxiv.org/pdf/2002.00269.pdf)
 
-[Jensen, F.V. (1997). An Introduction to Bayesian Networks. Springer, NY.](https://link.springer.com/chapter/10.1007/978-3-540-85066-3_1) **Need to Purchase**
+<img src="https://img.icons8.com/plasticine/20/000000/books.png">[Jensen, F.V. (1997). An Introduction to Bayesian Networks. Springer, NY.](https://link.springer.com/chapter/10.1007/978-3-540-85066-3_1) **Need to Purchase**
 
 [Kohavi, R. (1996). "Scaling up the accuracy of naive-Bayes classifiers: A decision-tree hybrid." In Proceedings of the 2nd Intern tional Conference on Knowledge Discovery and αtα Mining (KDD), 202-207, Port1and, OR.](https://pdfs.semanticscholar.org/cbb6/282f7d835ea167466845c027729b79bed0ef.pdf?_ga=2.191268905.2046485843.1582293919-1826631758.1582293919)
 
