@@ -22,13 +22,13 @@
 
 [Friedman, N. and M. Goldszmidt. (1996).  "Learning Bayesian networks with local structure."  In Proceedings of the  12th Annuαl  Conference on Uncertαinty in Artificial Intelligence (UAI), 252-262， Portland ,  OR.](https://arxiv.org/ftp/arxiv/papers/1302/1302.3577.pdf)
 
-Grossman, D. and P. Domingos.(2004). "Learning Bayesian network classifers by maximizing conditional likelihood."  In Proceedings  of the  21st  lnternaional  Conference on Machine Learning (ICML),  46-53 , Banff,  Canada. 
+[Grossman, D. and P. Domingos.(2004). "Learning Bayesian network classifiers by maximizing conditional likelihood."  In Proceedings  of the  21st  lnternaional  Conference on Machine Learning (ICML),  46-53 , Banff,  Canada.](https://homes.cs.washington.edu/~pedrod/papers/mlc04.pdf)
 
-Heckerman, D.(1998). "A tutorial on learning with Bayesian networks." In learning in Graphical Models (M. I.Jordan, ed.) , 301-354, Kluwer, Dordrecht, The Netherlands.
+[Heckerman, D.(1998). "A tutorial on learning with Bayesian networks." In learning in Graphical Models (M. I.Jordan, ed.) , 301-354, Kluwer, Dordrecht, The Netherlands.](https://arxiv.org/pdf/2002.00269.pdf)
 
-Jensen, F.V. (1997). An Introduction to Bαyesian Networks. Springer, NY. 
+[Jensen, F.V. (1997). An Introduction to Bayesian Networks. Springer, NY.](https://link.springer.com/chapter/10.1007/978-3-540-85066-3_1) **Need to Purchase**
 
-Kohavi, R. (1996). "Scali up the accuracy of naive-Bayes classifiers: A decision-tree hybrid." In Proceedings of the 2nd Intern tional Conference on Knowledge Discovery and αtα Mining (KDD), 202-207, Port1and, OR.
+[Kohavi, R. (1996). "Scaling up the accuracy of naive-Bayes classifiers: A decision-tree hybrid." In Proceedings of the 2nd Intern tional Conference on Knowledge Discovery and αtα Mining (KDD), 202-207, Port1and, OR.](https://pdfs.semanticscholar.org/cbb6/282f7d835ea167466845c027729b79bed0ef.pdf?_ga=2.191268905.2046485843.1582293919-1826631758.1582293919)
 
 Konone r. (1991). "Semi-naive Bayesian classifier." In Proceedings of the opean Working Session on Learning (EWSL), 206-219, Porto, Portugal.
 
