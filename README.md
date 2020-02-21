@@ -4,13 +4,13 @@
 # 第7章 贝叶斯分类器
 [Bishop, C. M. (2006).  Pattern Recognition and Machine Learning. Springer, New York,  NY. ](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
-[Chickering，D.M., D.Heckerman, and C.Meek.(2004). "Large-sample learning of Bayesian networks is NP-hard." Journal of Machine Learning  Research, 5:1287-1330.] (http://www.jmlr.org/papers/volume5/chickering04a/chickering04a.pdf)
+[Chickering，D.M., D.Heckerman, and C.Meek.(2004). "Large-sample learning of Bayesian networks is NP-hard." Journal of Machine Learning  Research, 5:1287-1330.](http://www.jmlr.org/papers/volume5/chickering04a/chickering04a.pdf)
 
-Chow, C. K. and  C. N. Liu.  (1968).  "Approximatiion discrete probabi1ity distributions with dependence trees." IEEE  Trαnsαctions on lnformαtion Theory, 14(3):462-467. 
+[Chow, C. K. and  C. N. Liu.  (1968).  "Approximation discrete probability distributions with dependence trees." IEEE  Trαnsαctions on lnformαtion Theory, 14(3):462-467.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.9772&rep=rep1&type=pdf)
 
-Cooper, G.F.(1990). "The computational complexity of probabilistic  inference using Bayesian belief networks."  Artificial Intelligence ,  42(2-3):393-405 
+[Cooper, G.F.(1990). "The computational complexity of probabilistic inference using Bayesian belief networks."  Artificial Intelligence ,  42(2-3):393-405](https://www.sciencedirect.com/science/article/abs/pii/000437029090060D)<font color=Blue> Need to Purchase</font>
 
-Cowell , R. G. , P. Dawid, S. L. Lauritzen, and D. J. Spiege1ha1ter. (1999). Probabilistic Networks αnd Expert Systems. Springer, New York, NY. 
+[Cowell , R. G. , P. Dawid, S. L. Lauritzen, and D. J. Spiege1ha1ter. (1999). Probabilistic Networks αnd Expert Systems. Springer, New York, NY.](https://www.springer.com/gp/book/9780387987675)<font color=Blue> Need to Purchase</font>
 
 Dempster, A. P., N. M. Laird, and D. B Rubin. (1977). "Maximum likelihood from incomplete data via the EM a1gorithm." Journαl of the  Royal  Stαtistical Society - Series  B, 39(1):1-38. 
 
