@@ -10,7 +10,7 @@
 
 [Cooper, G.F.(1990). "The computational complexity of probabilistic inference using Bayesian belief networks."  Artificial Intelligence ,  42(2-3):393-405](https://www.sciencedirect.com/science/article/abs/pii/000437029090060D)<font color=Blue> Need to Purchase</font>
 
-[Cowell , R. G. , P. Dawid, S. L. Lauritzen, and D. J. Spiege1ha1ter. (1999). Probabilistic Networks αnd Expert Systems. Springer, New York, NY.](https://www.springer.com/gp/book/9780387987675) $\color{red}{Need to Purchase}$
+[Cowell , R. G. , P. Dawid, S. L. Lauritzen, and D. J. Spiege1ha1ter. (1999). Probabilistic Networks αnd Expert Systems. Springer, New York, NY.](https://www.springer.com/gp/book/9780387987675) <div class="text-blue mb-2">Need to Purchase</div>
 
 Dempster, A. P., N. M. Laird, and D. B Rubin. (1977). "Maximum likelihood from incomplete data via the EM a1gorithm." Journαl of the  Royal  Stαtistical Society - Series  B, 39(1):1-38. 
 
