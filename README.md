@@ -8,19 +8,19 @@
 
 [Chow, C. K. and  C. N. Liu.  (1968).  "Approximation discrete probability distributions with dependence trees." IEEE  Trαnsαctions on lnformαtion Theory, 14(3):462-467.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.9772&rep=rep1&type=pdf)
 
-[Cooper, G.F.(1990). "The computational complexity of probabilistic inference using Bayesian belief networks."  Artificial Intelligence ,  42(2-3):393-405](https://www.sciencedirect.com/science/article/abs/pii/000437029090060D)<font color=Blue> Need to Purchase</font>
+[Cooper, G.F.(1990). "The computational complexity of probabilistic inference using Bayesian belief networks."  Artificial Intelligence ,  42(2-3):393-405](https://www.sciencedirect.com/science/article/abs/pii/000437029090060D) **Need to Purchase**
 
-[Cowell , R. G. , P. Dawid, S. L. Lauritzen, and D. J. Spiege1ha1ter. (1999). Probabilistic Networks αnd Expert Systems. Springer, New York, NY.](https://www.springer.com/gp/book/9780387987675) <div class="text-blue mb-2">Need to Purchase</div>
+[Cowell , R. G. , P. Dawid, S. L. Lauritzen, and D. J. Spiege1ha1ter. (1999). Probabilistic Networks αnd Expert Systems. Springer, New York, NY.](https://www.springer.com/gp/book/9780387987675) **Need to Purchase**
 
-Dempster, A. P., N. M. Laird, and D. B Rubin. (1977). "Maximum likelihood from incomplete data via the EM a1gorithm." Journαl of the  Royal  Stαtistical Society - Series  B, 39(1):1-38. 
+[Dempster, A. P., N. M. Laird, and D. B Rubin. (1977). "Maximum likelihood from incomplete data via the EM algorithm." Journαl of the  Royal  Stαtistical Society - Series  B, 39(1):1-38.](https://www.isi.edu/natural-language/teaching/cs562/2009/readings/DLR77.pdf)
 
-Domingos, P. and M.Pazzani. (1997). "On the  optimality of the simple Bayesian classifier  under zero-one 1oss."  Machine Leαrning，  29(2-3): 103-130. 
+[Domingos, P. and M.Pazzani. (1997). "On the optimality of the simple Bayesian classifier under zero-one loss."  Machine Leαrning, 29(2-3): 103-130.](http://engr.case.edu/ray_soumya/mlrg/optimality_of_nb.pdf)
 
-Efron, B. (2005). "Bayesians, frequentists，and scientists." Journal of the American Stαtistical Association , 100(469):1-5. 
+[Efron, B. (2005). "Bayesians, frequentists，and scientists." Journal of the American Stαtistical Association , 100(469):1-5.](https://courses.physics.ucsd.edu/2015/Fall/physics210b/REFERENCES/Efron_Bayesians_Frequentists.pdf)
 
-Friedman, N,D. Geiger ,and M. Goldszmidt. (1997). "Bayesian network classifiers." Machine Learning , 29(2-3):131-163. 
+[Friedman, N,D. Geiger ,and M. Goldszmidt. (1997). "Bayesian network classifiers." Machine Learning , 29(2-3):131-163.](http://www.cs.technion.ac.il/~dang/journal_papers/friedman1997Bayesian.pdf)
 
-Friedman, N. and M. Goldszmidt. (1996).  "Learning Bayesian networks with local structure."  In Proceedings of the  12th Annuαl  Conference on Uncertαinty in Artificial Intelligence (UAI), 252-262， Portland ,  OR.
+[Friedman, N. and M. Goldszmidt. (1996).  "Learning Bayesian networks with local structure."  In Proceedings of the  12th Annuαl  Conference on Uncertαinty in Artificial Intelligence (UAI), 252-262， Portland ,  OR.](https://arxiv.org/ftp/arxiv/papers/1302/1302.3577.pdf)
 
 Grossman, D. and P. Domingos.(2004). "Learning Bayesian network classifers by maximizing conditional likelihood."  In Proceedings  of the  21st  lnternaional  Conference on Machine Learning (ICML),  46-53 , Banff,  Canada. 
 
